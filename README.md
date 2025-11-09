@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tr1ck4
-- 👀 I’m interested in coding and finance
-- 🌱 I’m currently learning computer science at HCMUS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding, embeding and management
+- 🌱 I learned computer science (APCS) at HCMUS and currently studying master IoT: Innovation and Management at École Polytechnique
 - 📫 How to reach me here https://www.facebook.com/TBNRfragsPrest
 
 <!---
